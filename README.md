@@ -1,4 +1,4 @@
-### Socket em C.
+### Socket em C
 
 Aplicação de Socket desenvolvida para Disciplina de Redes.
 
